@@ -17,27 +17,27 @@ solar-challenge-week1/
 ├── requirements.txt          # All dependencies
 ├── README.md
 └── .gitignore
-
+```
 
 ## Reproducing the Environment
 
 **Clone the repository**
-'''bash
+```bash
   git clone https://github.com/your-username/solar-challenge-week1.git
   cd solar-challenge-week1
-'''
-** Create a virtual environment **
+```
+**Create a virtual environment**
 
-'''bash
+```bash
   python -m venv venv
   source venv/bin/activate  # On Windows: venv\Scripts\activate
-'''
+```
 
 **Install dependencies**
 
-'''bash
+```bash
   pip install -r requirements.txt
-'''
+```
 ## Notebooks Overview
 
 **Notebook	Description**
