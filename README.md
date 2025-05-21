@@ -3,7 +3,7 @@ This project is part of the Solar Challenge Hackathon. It explores solar energy 
 
 ## Project Structure
 
-'''bash
+bash
   solar-challenge-week1/
   │
   ├── data/                     # Raw & cleaned CSV files (not tracked by Git)
@@ -17,7 +17,6 @@ This project is part of the Solar Challenge Hackathon. It explores solar energy 
   ├── requirements.txt          # All dependencies
   ├── README.md
   └── .gitignore
-'''
 
 ## Reproducing the Environment
 
