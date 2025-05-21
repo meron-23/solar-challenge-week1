@@ -3,20 +3,21 @@ This project is part of the Solar Challenge Hackathon. It explores solar energy 
 
 ## Project Structure
 
-bash
-  solar-challenge-week1/
-  │
-  ├── data/                     # Raw & cleaned CSV files (not tracked by Git)
-  ├── notebooks/
-  │   ├── eda_benin.ipynb
-  │   ├── eda_sierraleone.ipynb
-  │   ├── eda_togo.ipynb
-  │   └── compare_countries.ipynb
-  │
-  ├── outputs/                  # Visualizations (optional)
-  ├── requirements.txt          # All dependencies
-  ├── README.md
-  └── .gitignore
+```bash
+solar-challenge-week1/
+│
+├── data/                     # Raw & cleaned CSV files (not tracked by Git)
+├── notebooks/
+│   ├── eda_benin.ipynb
+│   ├── eda_sierraleone.ipynb
+│   ├── eda_togo.ipynb
+│   └── compare_countries.ipynb
+│
+├── outputs/                  # Visualizations (optional)
+├── requirements.txt          # All dependencies
+├── README.md
+└── .gitignore
+
 
 ## Reproducing the Environment
 
