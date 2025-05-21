@@ -13,7 +13,6 @@ solar-challenge-week1/
 │   ├── eda_togo.ipynb
 │   └── compare_countries.ipynb
 │
-├── outputs/                  # Visualizations (optional)
 ├── requirements.txt          # All dependencies
 ├── README.md
 └── .gitignore
